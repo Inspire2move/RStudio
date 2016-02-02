@@ -1,10 +1,6 @@
----
-output: html_document
----
 # RStudio
 
 een oefenlijntje
-nieuwe file
-
+nieuwe file 2
 
 nog meer nieuwe tekst
